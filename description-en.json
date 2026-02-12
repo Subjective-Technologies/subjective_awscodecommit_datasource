@@ -1,4 +1,5 @@
 {
+  "description": "Clones AWS CodeCommit repositories into a target directory using AWS credentials and exposes synced code assets for indexing and automation.",
   "domainCategory": "Software Development",
   "subjectiveTechnologyElement": "DataSources",
   "publisher": "BrainBoost Ltd.",
@@ -9,7 +10,7 @@
     {
       "type": "splitList",
       "title": "AWS Code Commit",
-      "text": "A Subjective data source for aws code commit.",
+      "text": "Clones AWS CodeCommit repositories into a target directory using AWS credentials and exposes synced code assets for indexing and automation.",
       "image": {
         "src": "/subjective_awscodecommit_datasource/icon.svg",
         "alt": "AWS Code Commit icon"
